@@ -1,0 +1,21 @@
+/* Tipografía y fondo general */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  color: #172B53;
+  margin: 0;
+  padding: 2rem;
+}
+
+/* Encabezado corporativo */
+.form-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.form-header .logo {
+  width: 60px;
+  height: auto;
+}
